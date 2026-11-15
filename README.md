@@ -1,22 +1,4 @@
 # 🧰 GrifoCleaner
-## 📖 Descripción
-
-**Limpiador y Optimizador de Windows** es una herramienta creada para mejorar el rendimiento del sistema mediante limpieza, mantenimiento y optimización utilizando funciones internas de Windows.
-
-Permite eliminar archivos innecesarios, limpiar historiales, realizar comprobaciones del sistema y ejecutar procesos de optimización de manera sencilla.
-![License](https://img.shields.io/badge/License-MIT-green)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange)
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&logoColor=white)
-
-### Captura 
-
-<p align="center"><img src="https://i.ibb.co/NdjmPXLQ/2026-08-14-212953.png"></p>
-
-<a href="https://github.com/xyvenqorix/limpiar_optimizar_windows/releases/tag/v2.0OptumusWindows">Releases</a>
-
-> Herramienta diseñada para mejorar el rendimiento de Windows mediante limpieza y optimización segura del sistema.
-
-## ✨ Características
 
 - 🧹 Limpieza rápida del sistema.
 - 🗑️ Eliminación de archivos temporales.
