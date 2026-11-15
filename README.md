@@ -1,4 +1,4 @@
-# 🧰 Limpiador y Optimizador de Windows
+# 🧰 GrifoCleaner
 ## 📖 Descripción
 
 **Limpiador y Optimizador de Windows** es una herramienta creada para mejorar el rendimiento del sistema mediante limpieza, mantenimiento y optimización utilizando funciones internas de Windows.
